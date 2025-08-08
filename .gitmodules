@@ -1,0 +1,3 @@
+[submodule "Courses/Smart-Contract-Security-Auditor/lib/forge-std"]
+	path = Courses/Smart-Contract-Security-Auditor/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
